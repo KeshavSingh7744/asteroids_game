@@ -6,6 +6,7 @@ dist/
 wheels/
 *.egg-info
 game_state.jsonl
+game_events.jsonl
 .python-version
 pyproject.toml
 uv.lock
